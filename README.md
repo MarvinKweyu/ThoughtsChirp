@@ -3,6 +3,11 @@
 > A tweeter timeline implementation
 
 
+## Preview
+
+![ThoughtsChirp](./preview/thought_chirp.gif)
+
+
 ## Development
 To start your Phoenix server:
 
